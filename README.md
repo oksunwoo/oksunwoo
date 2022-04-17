@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=300&section=header&text=ToniOS&fontSize=90&desc=SunwooNam)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=300&section=header&text=ToniOS&fontSize=90&desc=SunwooNam&descAlignY=70)
 
 
 ### 남선우(Sunwoo-Nam) <br><br> 
