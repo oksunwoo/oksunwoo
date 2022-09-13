@@ -9,10 +9,13 @@
 ![Swift](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=Swift&logoColor=white)
 
 ## 🚴 Career & Experience
-
+- 2022.04 ~ 2022.05 야곰아카데미 Code Starter Camp 리뷰어
 
 ## 📝 Education
-
+- 2021.10 ~ 2022.04 야곰아카데미 Career Starter Camp
+- 2019.01 ~ 2019.06 California State of University LongBeach 어학연수
+- 2018.08 ~ 2018.12 California State of University Sacramento 교환학생
+- 2012.03 ~ 2020.08 한국외국어대학교 졸
 
 ## 😃 About Me
 
