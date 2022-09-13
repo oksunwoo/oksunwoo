@@ -3,6 +3,10 @@
 
 
 ## 🛠️ Tech Skills 🛠️
+- 👍 자주 사용했어요 <br>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+- ✏ 최근에 공부중이에요  <br>
+![Swift](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=Swift&logoColor=white)
 
 ## 🚴 Career & Experience
 
